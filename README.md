@@ -1,4 +1,4 @@
-# Body-Powered-Exoskleton-Glove
+# Body Powered Exoskleton Glove
 
 **Title:** A Soft, Body-Powered Exoskleton Glove for Grasping Capabilities Enhancement
 
