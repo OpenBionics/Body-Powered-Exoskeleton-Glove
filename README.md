@@ -15,4 +15,4 @@
 
 <p align="justify"> The prototype of the body powered mechanism costs 92 USD to produce and weighs 335 g. To the best of our knowledge this is the lightest among all the assistive exo-gloves currently found in the literature. It is important to highlight that this solution can be extended to different actuation units. The force transmission from the shoulder to the fingertips could be executed by other members or external systems if the person cannot use other body parts (e.g., a motor could replace the tension adjustment mechanism to tension the cable that comes from the spring loaded differential mechanism).   </p>  
 
-<p align="center"><img src="https://github.com/newdexterity/Body-Powered-Exoskeleton-Glove/blob/master/Pictures/Device_assembly.png" width="70%"></img></p>
+<p align="center"><img src="https://github.com/newdexterity/Body-Powered-Exoskeleton-Glove/blob/master/Pictures/Body-Powered-Exoglove.png" width="70%"></img></p>
